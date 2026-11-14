@@ -13,7 +13,8 @@
   "files": [
     "Fanatic.js",
     "Fanatic.d.ts",
-    "Fanatic.js.map"
+    "Fanatic.js.map",
+    "Fanatic.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
